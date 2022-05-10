@@ -1,0 +1,36 @@
+- profile:
+  initials: AAC
+  name: Alan Abundis
+  profession: Frontend/Android Developer
+  image: images/alan.jpeg
+  location: Querétaro / Merida - Yucatan
+  relocation: true
+  company: Clip MX
+  for_hire: true
+  focus: React/ React Native and Kotlin Development
+  focus_url: https://gatsbyjs.org
+  about: |
+    I am a Software Engineer from the Autonomous University of Queretaro, my hometown is the city of Santiago de Queretaro.
+
+    I currently work as React FrontEnd Developer Sr. and Android Developer in Clip Mx on the development and mainteniance of Cartera Clip(User wallet section) of financial services.
+
+    My passion has always been the frontend development, I like to impliment even the smallest details to provide an excellent user experience.
+  skills:
+    - React
+    - React Native
+    - Kotlin
+  tools:
+    - Jira
+    - VSCode
+    - Github
+    - Firebase
+    - Lauch Darkly
+    - Heroku
+    - Vercel
+    - Gatsby
+    - Bitbucket
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

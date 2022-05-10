@@ -1,0 +1,45 @@
+- name: Cartera Clip
+  url: https://clip.mx/servicio/cuenta-digital?utm_id=go_cmp-2074267194_adg-75403439486_ad-572812433024_dsa-19959388920_dev-c_ext-_prd-_mca-_sig-Cj0KCQjwmuiTBhDoARIsAPiv6L_xkcDAxF_EPPhCbYYBbx1Va_dcL8m7s-GjqCUhs1Mc5bx_CmAYY80aAmmDEALw_wcB&utm_source=google&gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_xkcDAxF_EPPhCbYYBbx1Va_dcL8m7s-GjqCUhs1Mc5bx_CmAYY80aAmmDEALw_wcB
+  description: |
+    Working on the development and maintenance of the financial services wallet section.
+
+    Built using react js, the application provides the possibility of having a wallet where they can manage all their sales deposits, and provides features such as Speiouts, physical card linking, dynamic CVV, end-to-end encryption with Web Crypto API, etc.
+  status: live
+  tags:
+    - JavaScript
+    - React
+  icon: website
+  image: images/cartera.png
+
+- name: Tabz
+  url: https://apps.apple.com/mx/app/tabz-tech/id1536494954?l=en
+  description: Work in the development of TABZ aplication using react native, tabz is a crypto hub that provides real time news from all the common forums(reddit, twitter, google, etc). Also enables comunity functionalities such as chats, forums, etc
+  status: live
+  tags:
+    - JavaScript
+    - React Native
+  icon: website
+  image: images/tabz.jpg
+
+- name: Collok.io
+  url: https://collok.io/
+  description: |
+    Working on the rebuild of colloquio platform, creating workspaces for the recruitment agencys.
+    Using video interview technologies and bringing them tools for an easiest work on the day by day
+  status: live
+  tags:
+    - JavaScript
+    - React
+  icon: website
+  image: images/collokio.png
+
+- name: MiEnvio
+  url: https://mienvio.mx/
+  description: |
+    Working on the development and maintenance of admin platform
+  status: live
+  tags:
+    - JavaScript
+    - React
+  icon: website
+  image: images/mienvio.png
